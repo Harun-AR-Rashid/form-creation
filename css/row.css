@@ -1,0 +1,10 @@
+table{
+    border-collapse: collapse;
+}
+/* thead{
+    border-collapse: collapse;
+} */
+td{
+    border: 2px solid;
+    padding: 5px 10px;
+}
